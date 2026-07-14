@@ -1,117 +1,80 @@
-## Hi there 👋
-
-<!--
 <h1 align="center">Hi 👋, I'm Vivek Kabdule</h1>
-<h3 align="center">Artificial Intelligence & Machine Learning Student | Aspiring Machine Learning Engineer | Data Analytics Enthusiast</h3>
+
+<h3 align="center">
+Artificial Intelligence & Machine Learning Student <br>
+Aspiring Machine Learning Engineer | Data Analytics Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Data+Analytics;Python+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast;Python+Developer;Data+Analytics;Always+Learning+New+Technologies"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Vivek79007&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
+
+<div align="center">
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Student in Artificial Intelligence & Machine Learning
+🎓 **AI & Machine Learning Student**
 
-💡 Passionate about solving real-world problems using AI, Machine Learning, and Data Analytics.
+💡 Passionate about solving real-world problems using AI and Data Analytics.
 
-🌱 Currently learning
-- Machine Learning
-- Deep Learning
-- SQL
-- Power BI
-- Data Structures & Algorithms
+🌱 Currently Learning
 
-🎯 Career Goal
+Machine Learning • Deep Learning • SQL • Power BI • DSA
 
-Become a Machine Learning Engineer / Data Scientist by building impactful AI solutions.
+🎯 Goal
 
-💼 Open to
+Become a Machine Learning Engineer & Data Scientist
 
-- AI/ML Internship
-- Data Analyst Internship
-- Open Source Collaboration
+🟢 Open to AI/ML Internship | Data Analyst Internship
+
+</div>
 
 ---
 
-## 🛠️ Skills & Tools
+<div align="center">
 
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+## 🛠 Skills & Tools
 
-### Data Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+| Category | Skills |
+|:---------:|:------:|
+| Programming | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| Data Analysis | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi) |
+| Machine Learning | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow) |
+| Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter) |
 
-### Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+</div>
 
 ---
+
+<div align="center">
 
 ## 🚀 Featured Projects
 
-🎬 Movie Recommendation System
+| Project | Description |
+|:--------:|:------------|
+| 🎬 Movie Recommendation System | Recommendation system using Python & Scikit-learn |
+| 📰 Fake News Detection | NLP-based fake news classifier |
 
-📰 Fake News Detection
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vivek79007&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek79007&layout=compact&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Vivek79007&theme=tokyonight"/>
-</p>
 
----
+## 📫 Connect With Me
 
-## 🏆 GitHub Trophies
+📧 **vivekkabdule79@gmail.com**
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vivek79007&theme=tokyonight&row=1&column=6"/>
-</p>
+💼 **<a href="https://www.linkedin.com/in/vivek-kabdule-4b988731b/">LinkedIn</a>**
 
----
+⭐ **Thanks for visiting my profile!**
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek79007&theme=tokyo-night"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-📧 Email: your-vivekkabdule79@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/your-profile](https://www.linkedin.com/in/vivek-kabdule-4b988731b/)
-
----
-
-### 💬 Quote
-
-> "Learning never stops. Every project is one step closer to becoming an exceptional AI Engineer."
-
-⭐ Thanks for visiting my profile!
--->
+</div>
