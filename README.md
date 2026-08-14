@@ -22,12 +22,13 @@ Artificial Intelligence & Machine Learning Undergraduate
 
 🎓 Artificial Intelligence & Machine Learning Undergraduate
 
-💡 Passionate about Machine Learning, Data Analytics, and building AI-powered applications that solve real-world problems.
+💡 Passionate about Machine Learning, Data Analytics, NLP, and building AI-powered applications that solve real-world problems.
 
 🌱 **Currently Learning**
 
 - Machine Learning
 - Deep Learning
+- Natural Language Processing
 - SQL
 - Power BI
 - Data Structures & Algorithms
@@ -60,11 +61,18 @@ Become a **Machine Learning Engineer** and contribute to innovative AI solutions
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
 </p>
 
-### 🤖 Machine Learning
+### 🤖 Machine Learning & NLP
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python"/>
+</p>
+
+### 🌐 Application Development
+
+<p>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ### 🛠 Tools
@@ -108,27 +116,36 @@ AI-powered **Content-Based Movie Recommendation System** built using **Python, N
 
 ---
 
-## 📰 Fake News Detection *(Coming Soon)*
+## 📧 Email & SMS Spam Classifier
 
-Machine Learning & NLP based Fake News Detection System.
+An end-to-end **NLP and Machine Learning application** that classifies messages as **Spam or Ham (Legitimate)** using text preprocessing and TF-IDF feature extraction.
+
+### ✨ Features
+
+- 📩 Email/SMS spam classification
+- 🧹 Text preprocessing and cleaning
+- 🔤 Tokenization and stemming using NLTK
+- 📊 TF-IDF feature extraction
+- 🤖 Machine Learning classification
+- 📈 Model evaluation using accuracy and precision
+- 🌐 Real-time prediction using Streamlit
+- ☁️ Word frequency visualization
+
+### 🛠 Tech Stack
+
+`Python` • `Pandas` • `Scikit-learn` • `NLTK` • `TF-IDF` • `Matplotlib` • `Seaborn` • `WordCloud` • `Streamlit`
+
+<p>
+
+<a href="https://github.com/Vivek79007/email-spam-detector">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vivek79007&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek79007&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek79007&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
